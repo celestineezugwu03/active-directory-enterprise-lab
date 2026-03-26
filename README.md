@@ -83,8 +83,14 @@ Enterprise file server architecture
 
 ---
 
-## Documentation
+## Troubleshooting Scenarios Simulated
 
-Full implementation guide available here:
+During deployment, several realistic infrastructure issues were identified and resolved:
 
-/documentation/Active_Directory_Infrastructure_Documentation.docx
+• Windows 10 Home edition cannot join domains  
+• Incorrect DNS configuration prevented domain discovery  
+• Firewall rules blocked communication between virtual machines  
+• Permission inheritance exposed unintended folder visibility  
+• Share permissions conflicted with NTFS permissions  
+
+Each issue was diagnosed and corrected using enterprise troubleshooting methodology.
