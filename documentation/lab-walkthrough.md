@@ -36,9 +36,9 @@ This lab mirrors how organizations deploy centralized identity and access manage
 
 The infrastructure environment was built using Oracle VirtualBox with separate Server and Client virtual machines configured for domain communication.
 
-![Virtual hardware setup](screenshots/Virtual hardware setup.png)
+[Virtual hardware setup](screenshots/Virtual hardware setup.png)
 
-![VirtualBox overview Page](screenshots/VirtualBox overview Page.png)
+[VirtualBox overview Page](screenshots/VirtualBox overview Page.png)
 
 ---
 
